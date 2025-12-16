@@ -1,10 +1,6 @@
 Hello DevOps SSH
 this is a practice
 testing with devops feature
-<<<<<<< HEAD
-Local change in main
-Local change for conflict test
-Local conflict test
  test again
  letmetestit
 
